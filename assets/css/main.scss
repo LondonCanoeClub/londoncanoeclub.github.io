@@ -9,4 +9,15 @@ strong {color: #2b4861 !important;}
 .logoimg{
   padding:20px;
 }
+footer {
+  text-align: center;
+}
+@media (max-width: 49rem){
+  footer a {
+    color: white !important;
+  }
+  footer {
+    color: white !important;
+  }
+}
 @import "hydeout";

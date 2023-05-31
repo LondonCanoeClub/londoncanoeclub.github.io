@@ -9,14 +9,11 @@
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <img src = "/images/logo-reversed.png" class="logoimg">
-    <p class="lead">{{ site.description }}</p>
+    <!--<p class="lead">{{ site.description }}</p>-->
   </header>
   {% include sidebar-nav-links.html %}
 
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
-
-  <br><br>
-  {% include copyright.html %}
 </div>

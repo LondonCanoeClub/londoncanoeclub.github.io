@@ -7,8 +7,7 @@ sidebar_sort_order : 50
 ---
 
 Membership applications are now open for the 2023 season!
-
-[Link to membership application](https://forms.gle/winWJfazjrvgPzhP8)
+<a class="link-button" href="https://forms.gle/winWJfazjrvgPzhP8">Link to membership application</a>
 
 Prices:  
 $55 individual adult  

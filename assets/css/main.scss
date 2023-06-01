@@ -6,6 +6,16 @@ $sidebar-bg-color: #2b4861;
 $heading-color: #2b4861;
 $link-color: #2b4861;
 strong {color: #2b4861 !important;}
+.content a.link-button {
+  font-weight: bold;
+  width: 100%;
+  display: block;
+  text-align: center;
+  border: 2px solid black;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 18px;
+}
 .logoimg{
   padding:20px;
 }

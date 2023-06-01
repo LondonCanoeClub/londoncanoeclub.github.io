@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 logo: images/logo-reversed.jpg
-google_analytics: G-TNM3F3FXF0
+google_analytics: 379563231
 
 paginate:         5
 # paginate_path:    '/page:num'

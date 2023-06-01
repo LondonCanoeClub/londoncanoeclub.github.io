@@ -3,12 +3,12 @@ layout: page
 title: Become a Member
 permalink: /become-a-member/
 sidebar_link : true
-sidebar_sort_order : 50 
+sidebar_sort_order : 50
 ---
 
 Membership applications are now open for the 2023 season!
 
-[Link to membership application](https://www.facebook.com/LondonCanoeClubON/)
+[Link to membership application](https://forms.gle/winWJfazjrvgPzhP8)
 
 Prices:  
 $55 individual adult  
@@ -19,4 +19,4 @@ Membership benefits include use of the canoes and kayaks during operating hours 
 
 After filling out the membership application form, please follow the instructions on the form to submit payment by etransfer, including the names of all adult members in the etransfer message. Once your membership is processed, you will receive an email with instructions indicating how to pick up your membership card(s) and parking pass.
 
-![Dock-from-land](/images/dock.jpg)
+![View of the canoe and kayak dock at Sharon Creek Conservation Area with a canoe lying on the dock](/images/dock.jpg)

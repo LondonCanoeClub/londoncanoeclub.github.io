@@ -10,7 +10,7 @@ The London Canoe Club is a volunteer-run organization operating out of London, O
 
 You'll need to show your membership card to borrow a canoe or kayak, and memberships cannot be processed in person.
 
-**Questions? Contact us at (insert email)**
+**Questions? Contact us at [information.londoncanoeclub@gmail.com](mailto:information.londoncanoeclub@gmail.com)**
 
 
-![Bow](/images/bow.jpg)
+![View from the bow of a canoe looking out over the water at Sharon Creek Conservation Area](/images/bow.jpg)

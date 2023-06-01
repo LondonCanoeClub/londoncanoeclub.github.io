@@ -1,3 +1,11 @@
+Website:
+
+Copyright (c) 2023 Emma Badowski.
+
+
+
+Hydeout Theme for Jekyll:
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.

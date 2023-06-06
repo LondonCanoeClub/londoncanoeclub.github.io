@@ -3,7 +3,7 @@ layout: page
 title: Become a Member
 permalink: /become-a-member/
 sidebar_link : true
-sidebar_sort_order : 50
+sidebar_sort_order : 100
 ---
 
 Membership applications are now open for the 2023 season!
@@ -16,6 +16,11 @@ $70 family (two adults with dependents under 18 years of age)
 
 Membership benefits include use of the canoes and kayaks during operating hours (one boat per adult member at a time) and an annual parking pass for Sharon Creek Conservation Area. Members may bring guests who may paddle together in their canoe or take turns using a kayak.
 
-After filling out the membership application form, please follow the instructions on the form to submit payment by etransfer, including the names of all adult members in the etransfer message. Once your membership is processed, you will receive an email with instructions indicating how to pick up your membership card(s) and parking pass.
+
+### Steps to Become a Member: 
+1. Fill out the application form
+2. Submit the membership fee by etransfer to memberships.londoncanoeclub@gmail.com, preferably listing the names of all adult members in the etransfer message
+3. Wait for an email letting you know your membership has been processed, at which point you can come out to Sharon Creek to collect your membership card(s) and parking pass from the volunteer on duty anytime during operating hours. Make sure you bring photo ID when you come to pick up your membership!
+
 
 ![View of the canoe and kayak dock at Sharon Creek Conservation Area with a canoe lying on the dock](/images/dock.jpg)

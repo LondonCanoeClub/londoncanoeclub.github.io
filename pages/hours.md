@@ -14,22 +14,24 @@ Typical hours are 10am-4pm on weekends, and some weekday evenings according to v
 
 {% if false %}
 <!-- Regular Hours -->
-## Week of June 5, 2023
+## June 5-11, 2023
 
-| Day       | Operating Hours                   |
-|-----------|-----------------------------------|
-| Monday    | Closed                            |
-| Tuesday   | 4pm - 7pm                         |
-| Wednesday | Closed                            |
-| Thursday  | ~~5pm - 8pm~~ <mark>Closed</mark> |
-| Friday    | Closed                            |
-| Saturday  | 10am - 4pm                        |
-| Sunday    | 10am - 4pm                        |
+| Day       | Operating Hours |
+|-----------|-----------------|
+| Monday    | Closed          |
+| Tuesday   | Closed          |
+| Wednesday | Closed          |
+| Thursday  | Closed          |
+| Friday    | Closed          |
+| Saturday  | 10am - 4pm      |
+| Sunday    | 10am - 4pm      |
+
+<strong> Important Note: </strong> For safety reasons, we can't remain open if thunder or lightning is observed at Sharon Creek. If the weather looks stormy, make sure to check our social media accounts for weather closure announcements before heading out! 
 {% endif %}
 
 {% if false %}
 <!-- Modified Hours -->
-## Week of June 5, 2023
+## June 5-11, 2023
 
 | Day       | Operating Hours                       |
 |-----------|---------------------------------------|

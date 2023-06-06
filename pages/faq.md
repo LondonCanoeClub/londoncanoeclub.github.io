@@ -26,3 +26,6 @@ A: Sorry, boats are taken out on a first-come-first-served basis. However, there
 
 **Q: I don't want to join. Can I just rent a canoe/kayak?**  
 A: Sorry, we are entirely a membership-based organization. However, our annual rate (which includes parking) is comparable to day-use admission plus a single canoe/kayak rental session at many other venues, so we hope you'll consider joining!
+
+**Still have questions?**  
+Email us at [{{ site.info_email }}](mailto:{{ site.info_email }})!

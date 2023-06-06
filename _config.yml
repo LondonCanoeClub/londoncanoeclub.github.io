@@ -26,6 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+twitter_username: LondonCanoeClub
+facebook_username: LondonCanoeClubON
+instagram_username: londoncanoeclubon
+membership_form: https://forms.gle/winWJfazjrvgPzhP8
+info_email: information.londoncanoeclub@gmail.com
+membership_email: memberships.londoncanoeclub@gmail.com
+lesson_email: information.londoncanoeclub@gmail.com
+admin_email: admin@londoncanoekayak.ca
 logo: images/logo-reversed.jpg
 google_analytics: G-TNM3F3FXF0 #379563231
 

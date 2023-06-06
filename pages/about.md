@@ -12,7 +12,7 @@ There is no time limit on paddling during operating hours, and boats can be borr
 
 Please note that we are unable to process membership applications on site! If you're hoping to borrow a canoe or kayak, make sure you wait for the email that your membership cards are ready for pickup before coming out.
 
-**Questions? Contact us at [information.londoncanoeclub@gmail.com](mailto:information.londoncanoeclub@gmail.com)**
+**Questions? Contact us at [{{ site.info_email }}](mailto:{{ site.info_email }})**
 
 
 ![View from the bow of a canoe looking out over the water at Sharon Creek Conservation Area](/images/bow.jpg)

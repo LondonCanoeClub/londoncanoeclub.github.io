@@ -11,3 +11,8 @@ If you'd like some canoeing instruction either to get you started or to improve 
 
 ## Kayak Lessons
 Scheduled group kayak lessons are offered on weekends throughout the season. Stay tuned for updates!
+
+{% if false %}
+This is a demo of a kayak lesson registration form we are trying out. Please do not register for sessions using the form below!
+<div style="position:relative;overflow:hidden;width:100%;height:1000px;padding-top:500px"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-CA/embed/ticketing/6fac6206-c044-45a1-8309-f9b756745c68' allowpaymentrequest allowTransparency="true"></iframe></div>
+{% endif %}

@@ -6,13 +6,13 @@ sidebar_link : true
 sidebar_sort_order : 30
 ---
 
-{% if true %}
+{% if false %}
 The club has not yet opened for the 2023 season - check back for updates in early June!
 
 Typical hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.
 {% endif %}
 
-{% if false %}
+{% if true %}
 <!-- Regular Hours -->
 ## June 5-11, 2023
 
@@ -26,7 +26,7 @@ Typical hours are 10am-4pm on weekends, and some weekday evenings according to v
 | Saturday  | 10am - 4pm      |
 | Sunday    | 10am - 4pm      |
 
-<strong> Important Note: </strong> For safety reasons, we can't remain open if thunder or lightning is observed at Sharon Creek. If the weather looks stormy, make sure to check our social media accounts for weather closure announcements before heading out! 
+<strong> Important Note: </strong> We announce weather closures through our social media channels when the paddling conditions are unsafe at Sharon Creek (e.g. thunder and lightning, strong winds). If the weather looks stormy, make sure to check social media before heading out! 
 {% endif %}
 
 {% if false %}

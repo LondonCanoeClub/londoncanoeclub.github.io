@@ -15,11 +15,20 @@ Please note that we are unable to process membership applications on site! If yo
 **Questions? Contact us at [{{ site.info_email }}](mailto:{{ site.info_email }})**
 
 
-![View from the bow of a canoe looking out over the water at Sharon Creek Conservation Area](/images/bow.jpg)
+![A canoe club member paddling a purple kayak](/images/purple_kayak.jpg)
 
+## Equipment
+We have a variety of boats available to borrow including:
+* 8 canoes
+* 10 sit-in kayaks
+* 1 adult sit-on-top kayak
+* 3 youth sit-on-top kayaks.
+
+We also provide safety kits (bailer, rope, whistle), paddles, and PFDs/lifejackets, or you are welcome to bring your own. Please note that PFDs/lifejackets must be worn while paddling Canoe Club boats.
+![A variety of canoes and kayaks on racks](/images/boats_on_racks1.jpg)
+![A variety of canoes and kayaks on racks](/images/boats_on_racks2.jpg)
 
 {% if false %}
-## Equipment
 ### Canoes
 * Three 15ft canoes (white)
 * Five 16ft canoes (yellow)

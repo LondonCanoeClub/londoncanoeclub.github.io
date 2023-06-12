@@ -44,6 +44,6 @@ Typical hours are 10am-4pm on weekends, and some weekday evenings according to v
 | Sunday    | 10am - 4pm                            |
 {% endif %}
 
-![View from the water of the canoe and kayak dock at Sharon Creek Conservation Area](/images/dock2.jpg)
+![View from the bow of a canoe looking out over the water at Sharon Creek Conservation Area](/images/bow.jpg)
 
 

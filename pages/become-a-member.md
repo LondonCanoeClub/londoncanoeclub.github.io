@@ -23,4 +23,4 @@ Membership benefits include use of the canoes and kayaks during operating hours 
 3. Wait for an email letting you know your membership has been processed, at which point you can come out to Sharon Creek to collect your membership card(s) and parking pass from the volunteer on duty anytime during operating hours. Make sure you bring photo ID when you come to pick up your membership!
 
 
-![View of the canoe and kayak dock at Sharon Creek Conservation Area with a canoe lying on the dock](/images/dock.jpg)
+![A Canoe Club canoe sitting on the dock at Sharon Creek Conservation Area](/images/canoe_on_dock.jpg)

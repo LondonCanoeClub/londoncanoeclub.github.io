@@ -6,7 +6,7 @@ sidebar_link : false
 sidebar_sort_order : 50
 ---
 
-## Kayak Lessons
+## Kayak Skills Sessions
 Looking for some pointers for your first time kayaking, or ready to take 
 your paddling to the next level? Join our kayaking instructor for a small 
 group skills session! You'll learn the skills you need to get your kayak 
@@ -26,7 +26,7 @@ etransfer to {{ site.membership_email }}
 
 ![A canoe club member paddling a blue kayak](/images/blue_kayak.jpg)
 
-## Canoe Lessons
+## Canoe Skills Sessions
 If you'd like some canoeing instruction either to get you started or to 
 improve existing skills, you can schedule an individual or group coaching 
 session with a certified canoeing instructor. The cost is a goodwill donation 

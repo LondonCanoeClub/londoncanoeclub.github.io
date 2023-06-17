@@ -6,7 +6,7 @@ sidebar_link : false
 sidebar_sort_order : 50
 ---
 
-## Kayak Skills Sessions
+## Basic Kayaking Skills Sessions
 Looking for some pointers for your first time kayaking, or ready to take 
 your paddling to the next level? Join our kayaking instructor for a small 
 group skills session! You'll learn the skills you need to get your kayak 

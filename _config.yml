@@ -21,7 +21,10 @@
 title: London Canoe Club
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Recreational canoeing and kayaking organization operating out of London, Ontario, Canada
+  The London Canoe Club is a membership-based recreational canoeing and kayaking organization 
+  operating out of London, Ontario, Canada.
+  We offer unlimited free kayak and canoe rentals to members for use in the lake at
+  Sharon Creek Conservation Area in Delaware, Ontario, just west of London.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://londoncanoekayak.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

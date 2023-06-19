@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 permalink: /faq/
-sidebar_link : false
+sidebar_link : true
 sidebar_sort_order : 60
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Learn to Paddle
 permalink: /learn-to-paddle/
-sidebar_link : false
+sidebar_link : true
 sidebar_sort_order : 50
 ---
 

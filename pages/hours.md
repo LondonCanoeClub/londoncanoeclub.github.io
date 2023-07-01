@@ -14,17 +14,17 @@ Typical hours are 10am-4pm on weekends, and some weekday evenings according to v
 
 {% if true %}
 <!-- Regular Hours -->
-## June 17-23, 2023
+## July 1-7, 2023
 
-| Day       | Operating Hours |
-|-----------|-----------------|
-| Saturday  | 10am - 4pm      |
-| Sunday    | 10am - 4pm      |
-| Monday    | Closed          |
-| Tuesday   | 5pm - 8pm       |
-| Wednesday | Closed          |
-| Thursday  | Closed          |
-| Friday    | Closed          |
+| Day       | Operating Hours            |
+|-----------|----------------------------|
+| Saturday  | 10am - 4pm                 |
+| Sunday    | 10am - 4pm                 |
+| Monday    | 10am - 4pm (Holiday Hours) |
+| Tuesday   | 5pm - 8pm                  |
+| Wednesday | Closed                     |
+| Thursday  | Closed                     |
+| Friday    | Closed                     |
 
 <strong> Important Note: </strong> We announce weather closures through our social media channels when the paddling conditions are unsafe at Sharon Creek (e.g. thunder and lightning, strong winds). If the weather looks stormy, make sure to check social media before heading out! 
 {% endif %}

@@ -65,4 +65,11 @@ footer {
     padding: $alert-padding;
   }
 }
+/* google form mobile */
+@media screen and (max-width: 767px) {
+  iframe[src*="google.com/forms"] {
+    width: 100% !important;
+    height: 800px;
+  }
+}
 @import "hydeout";

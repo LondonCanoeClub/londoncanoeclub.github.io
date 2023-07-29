@@ -34,7 +34,7 @@ session with a certified canoeing instructor.
 Please fill out the request form below to indicate your interest, and an instructor will email you to arrange a time. 
 Sessions can be for one or more tandem (two people per boat) or solo (one person per boat) canoes at a time.
 
-Sessions are provided by goodwill donations to the club. Please send donations by
+Sessions are provided by goodwill donation to the club. Please send donations by
 e-transfer to {{ site.membership_email }}
 
 <div style="position:relative;overflow:hidden;width:100%;height:500px;padding-top:500px"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-CA/embed/ticketing/25bfc7c9-eadd-4160-92ca-eca13820a2a8' allowpaymentrequest allowTransparency="true"></iframe></div>

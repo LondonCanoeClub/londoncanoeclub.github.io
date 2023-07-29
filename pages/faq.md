@@ -10,7 +10,7 @@ sidebar_sort_order : 60
 A: Yes!
 
 **Q: Do I need any canoeing/kayaking experience to join?**  
-A: No, you don't need any prior experience to come out and try paddling! If you'd like some tips to get you started, or have a particular paddling skill you'd like to improve, we do offer [lessons](/learn-to-paddle/) throughout the season.
+A: No, you don't need any prior experience to come out and try paddling! If you'd like some tips to get you started, or have a particular paddling skill you'd like to improve, we do offer both kayak and canoe [skills sessions](/learn-to-paddle/) throughout the season.
 
 **Q: Do I need to bring anything with me?**  
 A: We provide the canoe or kayak, paddles, PDFs, and safety kits (government-required whistle, rope, and bailer). You should bring any personal items you might need- we recommend sun protection, comfortable footwear for the walk from the parking lot to the dock, and drinking water (there are no taps at the site). We also recommend that you avoid bringing or wearing anything that can't get wet, or that you put items in a watertight container (not provided by the club).

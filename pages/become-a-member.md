@@ -5,7 +5,11 @@ permalink: /become-a-member/
 sidebar_link : true
 sidebar_sort_order : 100
 ---
+New membership applications are now closed for the 2023 season. Current members can continue to take out boats during our operating hours until the end of September.
 
+Check back in the spring for information about 2024 memberships!
+
+{% if false %}
 Membership applications are now open for the 2023 season!
 <a class="link-button" href="{{ site.membership_form }}">Link to membership application</a>
 
@@ -21,6 +25,6 @@ Membership benefits include use of the canoes and kayaks during operating hours 
 1. Fill out the [application form]({{ site.membership_form }})
 2. Submit the membership fee by etransfer to [{{ site.membership_email }}](mailto:{{ site.membership_email }}), preferably listing the names of all adult members in the etransfer memo
 3. Wait for an email letting you know your membership has been processed, at which point you can come out to Sharon Creek to collect your membership card(s) and parking pass from the volunteer on duty anytime during operating hours. Make sure you bring photo ID when you come to pick up your membership!
-
+{% endif %}
 
 ![A Canoe Club canoe sitting on the dock at Sharon Creek Conservation Area](/images/canoe_on_dock.jpg)

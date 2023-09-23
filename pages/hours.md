@@ -14,7 +14,7 @@ Typical hours are 10am-4pm on weekends, and some weekday evenings according to v
 
 {% if true %}
 <!-- Regular Hours -->
-## September 16-22, 2023
+## September 23-29, 2023
 
 | Day       | Operating Hours |
 |-----------|-----------------|

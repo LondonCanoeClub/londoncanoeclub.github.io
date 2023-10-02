@@ -6,7 +6,7 @@ sidebar_link : true
 sidebar_sort_order : 30
 ---
 
-{% if false %}
+{% if true %}
 The 2023 season has now ended- thanks for a great year! Please check back in late spring 2024 for information about our 2024 season.
 
 Our typical summer hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.

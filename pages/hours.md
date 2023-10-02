@@ -7,12 +7,12 @@ sidebar_sort_order : 30
 ---
 
 {% if false %}
-The club has not yet opened for the 2023 season - check back for updates in early June!
+The 2023 season has now ended- thanks for a great year! Please check back in late spring 2024 for information about our 2024 season.
 
-Typical hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.
+Our typical summer hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.
 {% endif %}
 
-{% if true %}
+{% if false %}
 <!-- Regular Hours -->
 ## September 30 - October 6, 2023
 

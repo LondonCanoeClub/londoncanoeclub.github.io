@@ -19,7 +19,7 @@ You must be a member of the London Canoe Club to sign up for a session, and
 the cost is a goodwill donation to the club. Please send donations by 
 etransfer to {{ site.membership_email }}
 
-We have no more kayak lessons scheduled for 2023. Please check back in the spring!
+We have not yet scheduled kayaking classes for 2024. Please check back for updates!
 
 {% if false %}
 <div style="position:relative;overflow:hidden;width:100%;height:500px;padding-top:500px"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-CA/embed/ticketing/ca0c702b-8b4e-48e8-919f-5d9c86791093' allowpaymentrequest allowTransparency="true"></iframe></div>
@@ -37,7 +37,7 @@ Sessions can be for one or more tandem (two people per boat) or solo (one person
 Sessions are provided to club members by goodwill donation to the club. Please send donations by
 e-transfer to {{ site.membership_email }}
 
-Our coaching sessions have now ended for the 2023 season. Please check back in the spring!
+Please check back for updates about the start of 2024 canoe coaching sessions!
 
 
 {% if false %}

@@ -6,6 +6,9 @@ sidebar_link : true
 sidebar_sort_order : 50
 ---
 
+Information to come about 2024 paddling skills sessions and coaching- please check back for updates!
+
+{% if false %}
 ## Basic Kayaking Skills Sessions
 Looking for some pointers for your first time kayaking, or ready to take 
 your paddling to the next level? Join our kayaking instructor for a small 
@@ -20,6 +23,7 @@ the cost is a goodwill donation to the club. Please send donations by
 etransfer to {{ site.membership_email }}
 
 We have not yet scheduled kayaking classes for 2024. Please check back for updates!
+{% endif %}
 
 {% if false %}
 <div style="position:relative;overflow:hidden;width:100%;height:500px;padding-top:500px"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-CA/embed/ticketing/ca0c702b-8b4e-48e8-919f-5d9c86791093' allowpaymentrequest allowTransparency="true"></iframe></div>
@@ -27,6 +31,7 @@ We have not yet scheduled kayaking classes for 2024. Please check back for updat
 
 ![A canoe club member paddling a blue kayak](/images/blue_kayak.jpg)
 
+{% if false %}
 ## Canoe Skills Sessions
 If you'd like some canoeing instruction either to get you started or to
 improve existing skills, you can schedule a coaching
@@ -38,7 +43,7 @@ Sessions are provided to club members by goodwill donation to the club. Please s
 e-transfer to {{ site.membership_email }}
 
 Please check back for updates about the start of 2024 canoe coaching sessions!
-
+{% endif %}
 
 {% if false %}
 Please fill out the request form below to indicate your interest, and an instructor will email you to arrange a time.
@@ -47,4 +52,6 @@ Please fill out the request form below to indicate your interest, and an instruc
 
 {% endif %}
 
+{% if false %}
 ![A canoe club member paddling a white canoe](/images/canoe_in_water.jpg)
+{% endif %}

@@ -23,8 +23,8 @@ Our typical summer hours are 10am-4pm on weekends, and some weekday evenings acc
 | Monday    | Closed          |
 | Tuesday   | Closed          |
 | Wednesday | Closed          |
-| Thursday  | 6:30pm - 8:30pm |
-| Friday    | Closed          |
+| Thursday  | 6pm - 8pm       |
+| Friday    | 4pm - 6pm       |
 
 <strong> Important Note: </strong> Please keep an eye on our social media for any changes to our regular weekly hours, including weather closures! 
 {% endif %}

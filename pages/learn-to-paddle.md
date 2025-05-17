@@ -6,7 +6,7 @@ sidebar_link : true
 sidebar_sort_order : 50
 ---
 
-Information to come about 2024 paddling skills sessions and coaching- please check back for updates!
+Information to come about 2025 paddling skills sessions and coaching- please check back for updates!
 
 {% if false %}
 ## Basic Kayaking Skills Sessions

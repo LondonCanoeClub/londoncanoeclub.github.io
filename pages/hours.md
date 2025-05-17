@@ -6,13 +6,13 @@ sidebar_link : true
 sidebar_sort_order : 30
 ---
 
-{% if false %}
+{% if true %}
 Our 2024 opening date has not yet been announced. Please check back for updates.
 
 Our typical summer hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.
 {% endif %}
 
-{% if true %}
+{% if false %}
 <!-- Regular Hours -->
 ## Regular Hours
 

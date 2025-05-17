@@ -6,7 +6,7 @@ sidebar_link : true
 sidebar_sort_order : 100
 ---
 {% if true %}
-Membership applications are not yet open for 2025. Please check back for updates or follow us on Facebook or Instagram!
+Membership applications are not yet open for 2025. Please check back for updates or follow us on social media!
 {% endif %}
 
 {% if false %}

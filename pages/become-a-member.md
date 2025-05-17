@@ -5,7 +5,7 @@ permalink: /become-a-member/
 sidebar_link : true
 sidebar_sort_order : 100
 ---
-{% if false %}
+{% if true %}
 Membership applications are not yet open for 2025. Please check back for updates or follow us on Facebook or Instagram!
 {% endif %}
 

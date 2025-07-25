@@ -7,9 +7,7 @@ sidebar_sort_order : 30
 ---
 
 {% if true %}
-Our 2025 opening date has not yet been announced. Please check back for updates.
-
-Our typical summer hours are 10am-4pm on weekends, and some weekday evenings according to volunteer availability.
+Our typical summer hours are 10am-4pm on weekends. Please check our social media accounts for up to date hours.
 {% endif %}
 
 {% if false %}

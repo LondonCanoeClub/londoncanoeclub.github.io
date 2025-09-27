@@ -5,11 +5,11 @@ permalink: /become-a-member/
 sidebar_link : true
 sidebar_sort_order : 100
 ---
-{% if false %}
-Membership applications are not yet open for 2025. Please check back for updates or follow us on social media!
+{% if true %}
+Sunday, September 28th is our last day for 2025. Thanks for a great season- we look forward to seeing you next year!
 {% endif %}
 
-{% if true %}
+{% if false %}
 Membership applications are now open for the 2025 season! Memberships are valid until the end of the year.
 
 ### Prices:  

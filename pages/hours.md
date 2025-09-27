@@ -7,7 +7,7 @@ sidebar_sort_order : 30
 ---
 
 {% if true %}
-Our typical summer hours are 10am-4pm on weekends. Please check our social media accounts for up to date hours.
+Our typical hours are 10am-4pm on weekends, June through September. Please check our social media accounts for up to date hours.
 {% endif %}
 
 {% if false %}

@@ -5,12 +5,12 @@ permalink: /become-a-member/
 sidebar_link : true
 sidebar_sort_order : 100
 ---
-{% if true %}
+{% if false %}
 Sunday, September 28th is our last day for 2025. Thanks for a great season- we look forward to seeing you next year!
 {% endif %}
 
-{% if false %}
-Membership applications are now open for the 2025 season! Memberships are valid until the end of the year.
+{% if true %}
+Membership applications are now open for the 2026 season! Memberships are valid until the end of the year.
 
 ### Prices:  
 $55 individual adult  
@@ -28,7 +28,7 @@ Please note that canoe club memberships **do not** include a parking pass for Sh
 
 Note: during the checkout process, you will be asked if you would like to make a donation to support our payment platform, Zeffy. This is entirely optional, and you may enter an amount of $0 by selecting "Other" from the dropdown menu.
 
-<div style="position:relative;overflow:hidden;height:830px;width:100%;padding-top:630px;"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/embed/ticketing/5f886022-80b0-45ed-83b2-24087edd0d5b' allowpaymentrequest allowTransparency="true"></iframe></div>
+<div style="position:relative;overflow:hidden;height:830px;width:100%;padding-top:630px;"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/embed/ticketing/london-canoe-club-membership-form-copy' allowpaymentrequest allowTransparency="true"></iframe></div>
 {% endif %}
 
 ![A Canoe Club canoe sitting on the dock at Sharon Creek Conservation Area](/images/canoe_on_dock.jpg)

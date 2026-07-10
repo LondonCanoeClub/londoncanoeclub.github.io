@@ -24,6 +24,8 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 | Thursday 16  | Closed          |
 | Friday 17    | Closed          |
 
+Want to help extend these hours? We are open whenever we have a volunteer to staff the boathouse. Get in touch if you'd like to help out!
+
 <strong> Important Note: </strong> Please keep an eye on our social media for any changes to our regular weekly hours, including weather closures! 
 {% endif %}
 

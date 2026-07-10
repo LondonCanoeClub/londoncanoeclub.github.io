@@ -12,7 +12,7 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 
 {% if true %}
 <!-- Regular Hours -->
-## Hours
+## July 11-17
 
 | Day          | Operating Hours |
 |--------------|-----------------|

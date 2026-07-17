@@ -17,7 +17,7 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 | Day          | Operating Hours |
 |--------------|-----------------|
 | Saturday 18  | Closed - Air Quality      |
-| Sunday 19    | Closed - Air Quality       |
+| Sunday 19    | 1pm - 4pm       |
 | Monday 20    | Closed          |
 | Tuesday 21   | Closed          |
 | Wednesday 22 | Closed          |

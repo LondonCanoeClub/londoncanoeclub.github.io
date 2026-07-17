@@ -12,17 +12,17 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 
 {% if true %}
 <!-- Regular Hours -->
-## July 11-17
+## July 18-24
 
 | Day          | Operating Hours |
 |--------------|-----------------|
-| Saturday 11  | 10am - 1pm      |
-| Sunday 12    | 1pm - 4pm       |
-| Monday 13    | Closed          |
-| Tuesday 14   | Closed          |
-| Wednesday 15 | Closed          |
-| Thursday 16  | Closed          |
-| Friday 17    | Closed          |
+| Saturday 18  | Closed - Air Quality      |
+| Sunday 19    | Closed - Air Quality       |
+| Monday 20    | Closed          |
+| Tuesday 21   | Closed          |
+| Wednesday 22 | Closed          |
+| Thursday 23  | Closed          |
+| Friday 24    | Closed          |
 
 Want to help extend these hours? We are open whenever we have a volunteer to staff the boathouse. Get in touch if you'd like to help out!
 

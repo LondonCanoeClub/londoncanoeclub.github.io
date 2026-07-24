@@ -12,21 +12,22 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 
 {% if true %}
 <!-- Regular Hours -->
-## July 20-26
+## July 25-31
 
-| Day          | Operating Hours                            |
-|--------------|--------------------------------------------|
-| Monday 20    | Closed                                     |
-| Tuesday 21   | 6:00pm - 8:30pm, Volunteer Orientation 7pm |
-| Wednesday 22 | Closed                                     |
-| Thursday 23  | Closed                                     |
-| Friday 24    | Closed                                     |
-| Saturday 18  | Pending Volunteer Availability             |
-| Sunday 19    | 10am - 4pm                                 |
+| Day          | Operating Hours                         |
+|--------------|-----------------------------------------|
+| Saturday 25  | 10am - 1pm, Volunteer Orientation 11am  |
+| Sunday 26    | 10am - 4pm                              |
+| Monday 27    | Closed                                  |
+| Tuesday 28   | 6pm - 8:30pm, Volunteer Orientation 7pm |
+| Wednesday 29 | Closed                                  |
+| Thursday 30  | Closed                                  |
+| Friday 31    | Closed                                  |
 
-Want to extend these hours? Volunteer for a shift! Drop by the boathouse any Tuesday we're open at 7pm for a volunteer orientation.
 
-<strong> Important Note: </strong> Please keep an eye on our social media for any changes to our regular weekly hours, including weather closures! 
+Want to extend these hours? Volunteer for a shift! If you haven't volunteered with us before, please drop by a volunteer orientation session as noted on the schedule (typically Tuesdays at 7pm).
+
+<strong> Important Note: </strong> Please keep an eye on our social media in case we need to cancel a session or close early (e.g. because of hazardous weather conditions)! 
 {% endif %}
 
 {% if false %}

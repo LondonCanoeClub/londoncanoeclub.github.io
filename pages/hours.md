@@ -12,17 +12,17 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 
 {% if true %}
 <!-- Regular Hours -->
-## July 25-31
+## August 1-7, 2026
 
-| Day          | Operating Hours                         |
-|--------------|-----------------------------------------|
-| Saturday 25  | 10am - 1pm, Volunteer Orientation 11am  |
-| Sunday 26    | 10am - 4pm                              |
-| Monday 27    | Closed                                  |
-| Tuesday 28   | 6pm - 8:30pm, Volunteer Orientation 7pm |
-| Wednesday 29 | Closed                                  |
-| Thursday 30  | Closed                                  |
-| Friday 31    | Closed                                  |
+| Day                      | Operating Hours                         |
+|--------------------------|-----------------------------------------|
+| Saturday 1               | 10am - 1pm                              |
+| Sunday 2                 | 10am - 4pm                              |
+| Monday 3 (Civic Holiday) | Closed, Pending Volunteer Availability  |
+| Tuesday 4                | 6pm - 8:30pm, Volunteer Orientation 7pm |
+| Wednesday 5              | Closed                                  |
+| Thursday 6               | Closed                                  |
+| Friday 7                 | Closed                                  |
 
 
 Want to extend these hours? Volunteer for a shift! If you haven't volunteered with us before, please drop by a volunteer orientation session as noted on the schedule (typically Tuesdays at 7pm).

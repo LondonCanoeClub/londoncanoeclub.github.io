@@ -12,17 +12,17 @@ Our typical hours are 10am-4pm on weekends, June through September. Please check
 
 {% if true %}
 <!-- Regular Hours -->
-## August 8-14, 2026
+## August 15-21, 2026
 
 | Day          | Operating Hours                       |
 |--------------|---------------------------------------|
-| Saturday 8   | 10am - 1pm                            |
-| Sunday 9     | 10am - 4pm                            |
-| Monday 10    | 6pm - 8:30pm                          |
-| Tuesday 11   | 6pm - 8:30pm |
-| Wednesday 12 | Closed                                |
-| Thursday 13  | Closed                                |
-| Friday 14    | Closed                                |
+| Saturday 15  | 10am - 1pm                            |
+| Sunday 16    | 10am - 4pm                            |
+| Monday 17    | 6pm - 8:30pm                          |
+| Tuesday 18   | 6pm - 8:30pm |
+| Wednesday 19 | Closed                                |
+| Thursday 20  | Closed                                |
+| Friday 21    | Closed                                |
 
 
 Want to extend these hours? Volunteer for a shift! If you haven't volunteered with us before, please drop by a volunteer orientation session (typically Tuesdays at 7pm).
